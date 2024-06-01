@@ -1,6 +1,6 @@
 # crie um código que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
 
-salario_antigo = float(input('Digite o seu salário: '))
+salario_antigo = float(input('Digite o seu salário: R$'))
 
 aumento = (salario_antigo*15)/100
 
