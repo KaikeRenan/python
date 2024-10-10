@@ -9,4 +9,4 @@ for c in range(0,6):
         soma += num
         cont += 1
     
-print(f"Você informo {cont} números e a soma é {soma}")
+print(f"Você informou {cont} números e a soma é {soma}")
