@@ -2,7 +2,7 @@
 
 soma = 0
 cont = 0
-escolha = 'a'
+escolha = ' '
 
 while escolha != 'N':
     n = int(input("Digite um número: "))
